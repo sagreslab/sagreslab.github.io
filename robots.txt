@@ -1,1 +1,1 @@
-Sitemap: https://riselabist.github.io/home/sitemap.xml
+Sitemap: https://riselabist.github.io/sitemap.xml
