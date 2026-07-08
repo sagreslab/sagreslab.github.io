@@ -1,9 +1,7 @@
 ---
 ---
 
-# riselabist's Website
-
-An engaging 1-3 sentence description of your lab.
+Sensors and Advanced mixed-siGnal pRocessing Electronic Systems
 
 {% include section.html %}
 
