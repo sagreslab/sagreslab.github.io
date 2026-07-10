@@ -1,79 +1,26 @@
 ---
 ---
 
-Sensors and Advanced mixed-siGnal pRocessing Electronic Systems
+# Welcome to the **S**ensors and **A**dvanced mixed-si**G**nal p**R**ocessing **E**lectronic **S**ystems **LAB**
+
+**SAGRES** develops next-generation sensing and electronic systems that bridge fundamental research and real-world applications. Our research spans electromagnetic sensors, mixed-signal and microelectronic interfaces, embedded systems, signal processing, and AI-assisted measurement technologies. We combine sensor design, electronics, microfluidics, and intelligent data analysis to create innovative solutions for industrial quality control, environmental monitoring, and emerging societal challenges. By integrating hardware, algorithms, and system-level design, SAGRES aims to transform advanced sensing into practical technologies with scientific and industrial impact.
+
 
 {% include section.html %}
 
-## Highlights
+## Why SAGRES?
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+SAGRES pays tribute to the symbolic **[Sagres School](https://en.wikipedia.org/wiki/Sagres_school)**, associated with the Portuguese Age of Discoveries. It represents the spirit of scientific curiosity, engineering excellence, and interdisciplinary collaboration that enabled Portugal to explore the unknown.
 
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+Our laboratory shares this vision. By combining advanced sensors, electronics and signal processing, SAGRES Lab develops technologies that provide information beyond the reach of conventional methods, supporting innovation in manufacturing, environmental monitoring, and other applications.
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  image="images/escola_sagres.jpg"
   text=text
 %}
 
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}

@@ -1,14 +1,17 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
-role: principal-investigator
-affiliation: University of Colorado
+name: Luís Rosado
+image: images/members/luis_rosado.jpg
+role: pi
+description: Principal Investigator Assistant Professor
+group: current
+joined: 2021
 aliases:
-  - J. Smith
-  - J Smith
+  - Luís S. Rosado
+  - L Rosado
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  email: luis.rosado@tecnico.ulisboa.pt
+  orcid: 0000-0001-8928-510X
+  google-scholar: r77XcUAAAAAJ
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -17,4 +20,5 @@ Elit at imperdiet dui accumsan.
 Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
 Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
 Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Magna eget eeest lorem ipsum.
+rfercec

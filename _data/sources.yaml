@@ -1,1 +1,37 @@
+
+- id: doi:10.1016/j.compositesb.2021.109167
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1359836821005461-gr16_lrg.jpg
+
+- id: doi:10.1007/s00170-021-08007-0
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs00170-021-08007-0/MediaObjects/170_2021_8007_Fig7_HTML.png
+
+- id: doi:10.3390/s21217335
+  image: https://www.mdpi.com/sensors/sensors-21-07335/article_deploy/html/images/sensors-21-07335-g002.png
+
+- id: doi:10.1007/s10921-022-00882-1
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs10921-022-00882-1/MediaObjects/10921_2022_882_Fig7_HTML.png?as=webp
+
+- id: doi:10.3390/s23052711
+  image: https://www.mdpi.com/sensors/sensors-23-02711/article_deploy/html/images/sensors-23-02711-g013.png
+
+- id: doi:10.3390/s23063348
+  image: https://www.mdpi.com/sensors/sensors-23-03348/article_deploy/html/images/sensors-23-03348-g016.png
+
+- id: doi:10.1109/JSEN.2024.3349860
+  image: https://ieeexplore.ieee.org/ielx7/7361/10453373/10388253/graphical_abstract/jsen-gagraphic-3349860.jpg
+
+- id: doi:10.3390/s24216827
+  image: https://www.mdpi.com/sensors/sensors-24-06827/article_deploy/html/images/sensors-24-06827-g012.png
+
+- id: doi:10.1016/j.measen.2024.101435
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2665917424004112-gr6_lrg.jpg
+
+- id: doi:10.3390/batteries11060227
+  image: https://www.mdpi.com/batteries/batteries-11-00227/article_deploy/html/images/batteries-11-00227-g010-550.jpg
+
+#
 - id: doi:10.1016/j.sna.2025.116958
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0924424725007642-ga1_lrg.jpg
+#
+- id: doi:10.3390/s26020669
+  image: https://www.mdpi.com/sensors/sensors-26-00669/article_deploy/html/images/sensors-26-00669-g003.png

@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: RISE Lab @ IST
+title: SAGRES Lab @ IST
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+header: 
+footer: 
 proofer: false
 
 # site social media and other links
@@ -14,7 +14,7 @@ links:
   github: riselabist
   twitter: riselabist
   youtube: riselabist
-
+ 
 ### jekyll settings
 
 # front matter defaults
