@@ -3,8 +3,8 @@ footer {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  gap: 20px;
-  padding: 40px;
+  gap: 0px;
+  padding: 0px;
   line-height: var(--spacing);
   box-shadow: var(--shadow);
 }
