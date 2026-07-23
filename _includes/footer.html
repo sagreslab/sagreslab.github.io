@@ -3,7 +3,6 @@
 
 <footer
   class="background"
-  style="--image: url('{{ image | relative_url | uri_escape }}')"
   {% if dark == true or dark == false %}
     data-dark="{{ dark }}"
   {% endif %}
@@ -16,14 +15,8 @@
   -->
 
   <div>
-    {% for link in site.links %}
-      {% assign key = link[0] %}
-      {% assign value = link[1] %}
-      {% include button.html type=key text="" link=value style="bare" %}
-    {% endfor %}
-  </div>
 
-  <div>
+
     &copy; {{ site.time | date: "%Y" }}
     {{ site.title }}
     &nbsp; | &nbsp; Built with
@@ -32,11 +25,4 @@
     </a>
   </div>
 
-  <input
-    type="checkbox"
-    class="dark-toggle"
-    data-tooltip="Dark mode"
-    aria-label="toggle dark mode"
-    oninput="onDarkToggleChange(event)"
-  >
 </footer>

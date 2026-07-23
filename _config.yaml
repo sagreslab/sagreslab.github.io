@@ -2,8 +2,9 @@
 title: SAGRES LAB @ IST
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
-header: 
-footer: 
+header: images/Picture23.png
+header_left: images/Picture5.png
+footer: images/Picture22.png
 proofer: false
 
 # site social media and other links
@@ -11,8 +12,7 @@ links:
   email: contact@riselabist.com
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
-  github: riselabist
-  twitter: riselabist
+  github: sagreslab
   youtube: riselabist
  
 ### jekyll settings

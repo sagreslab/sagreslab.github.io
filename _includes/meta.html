@@ -32,8 +32,8 @@
 
 {% assign description = description | xml_escape %}
 
-{% assign png = "images/sagres_icon.png" | file_exists %}
-{% assign jpg = "images/sagres_icon.jpg" | file_exists %}
+{% assign png = "images/sagres_icon_new.png" | file_exists %}
+{% assign jpg = "images/sagres_icon_new.jpg" | file_exists %}
 {% assign icon = png | default: jpg | relative_url %}
 
 {% assign jpg = "images/share.jpg" | file_exists %}

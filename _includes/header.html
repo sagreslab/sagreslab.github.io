@@ -1,30 +1,54 @@
 {% assign image = page.header | default: site.header %}
+{% assign image_left = page.header_left | default: site.header_left %}
 {% assign dark = page.header-dark | is_nil: site.header-dark | is_nil: true %}
 
-{% assign svg = "images/sagres_logo.svg" | file_exists %}
-{% assign png = "images/sagres_logo.png" | file_exists %}
-{% assign jpg = "images/sagres_logo.jpg" | file_exists %}
+{% assign svg = "images/sagres_logo_new.svg" | file_exists %}
+{% assign png = "images/sagres_logo_new.png" | file_exists %}
+{% assign jpg = "images/sagres_logo_new.jpg" | file_exists %}
 {% assign logo = svg | default: png | default: jpg | default: nil %}
 
+{% assign svg = "images/sagres_logo_hor_new.svg" | file_exists %}
+{% assign png = "images/sagres_logo_hor_new.png" | file_exists %}
+{% assign jpg = "images/sagres_logo_hor_new.jpg" | file_exists %}
+{% assign logo_hor = svg | default: png | default: jpg | default: nil %}
+
 <header
-  class="background"
-  style="--image: url('{{ image | relative_url | uri_escape }}')"
   {% if dark == true or dark == false %}
     data-dark="{{ dark }}"
   {% endif %}
   {% if page.url == "/" %}
+    class="background"
+    style="--image: url('{{ image | relative_url | uri_escape }}')"
     data-big
+  {% else %}
+    class="background"
+    style="--image: url('{{ image_left | relative_url | uri_escape }}')"
   {% endif %}
 >
   <a href="{{ "/" | relative_url }}" class="home">
     {% if logo %} 
-      <span class="logo">
-        {% if svg %}
-          {{ svg | file_read }}
-        {% else %}
-          <img src="{{ logo | relative_url | uri_escape }}" alt="logo">
-        {% endif %}
-      </span>
+      {% if page.url == "/" %}
+
+        <span class="logo">
+          {% if svg %}
+            {{ svg | file_read }}
+          {% else %}
+            <img src="{{ logo | relative_url | uri_escape }}" alt="logo">
+          {% endif %}
+        </span>
+
+      {% else %}
+
+        <span class="logo">
+          {% if svg %}
+            {{ svg | file_read }}
+          {% else %}
+            <img src="{{ logo_hor | relative_url | uri_escape }}" alt="logo">
+          {% endif %}
+        </span>
+
+      {% endif %}
+
     {% endif %}
     {% if site.logo-text != false %}
       <span class="title-text" data-tooltip="Home">
