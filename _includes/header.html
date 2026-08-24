@@ -2,14 +2,14 @@
 {% assign image_left = page.header_left | default: site.header_left %}
 {% assign dark = page.header-dark | is_nil: site.header-dark | is_nil: true %}
 
-{% assign svg = "images/sagres_logo_new.svg" | file_exists %}
-{% assign png = "images/sagres_logo_new.png" | file_exists %}
-{% assign jpg = "images/sagres_logo_new.jpg" | file_exists %}
+{% assign svg = "images/sagres_logo_wb.svg" | file_exists %}
+{% assign png = "images/sagres_logo_wb.png" | file_exists %}
+{% assign jpg = "images/sagres_logo_wb.jpg" | file_exists %}
 {% assign logo = svg | default: png | default: jpg | default: nil %}
 
-{% assign svg = "images/sagres_logo_hor_new.svg" | file_exists %}
-{% assign png = "images/sagres_logo_hor_new.png" | file_exists %}
-{% assign jpg = "images/sagres_logo_hor_new.jpg" | file_exists %}
+{% assign svg = "images/sagres_logo_hor_wb.svg" | file_exists %}
+{% assign png = "images/sagres_logo_hor_wb.png" | file_exists %}
+{% assign jpg = "images/sagres_logo_hor_wb.jpg" | file_exists %}
 {% assign logo_hor = svg | default: png | default: jpg | default: nil %}
 
 <header

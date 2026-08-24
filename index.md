@@ -46,7 +46,7 @@ We are a team of researchers and engineers dedicated to designing, building, and
 
 ## Why SAGRES?
 
-SAGRES pays tribute to the symbolic <a href="https://www.google.com/" style="color: black; font-weight: bold; text-decoration: underline; text-decoration-style: dotted;">Sagres School</a>. It represents the spirit of scientific curiosity, engineering excellence, and interdisciplinary collaboration that enabled Portugal to explore the unknown.
+SAGRES pays tribute to the symbolic <a href="https://www.google.com/" style="color: black; font-weight: bold; text-decoration: underline; text-decoration-style: dotted;">Sagres School</a>. It represents the spirit of scientific curiosity, engineering excellence, and interdisciplinary collaboration that enabled Portugal during the Age of Maritime Discoveries.
 
 Our laboratory shares this vision by developing advanced sensing technologies through an interdisciplinary approach. We combine expertise in sensors, electronics, and signal processing with collaborations across engineering, physics, chemistry, environmental sciences, and other disciplines to address complex scientific and technological challenges.
 

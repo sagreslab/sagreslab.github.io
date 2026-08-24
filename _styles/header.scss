@@ -24,7 +24,7 @@ header {
 }
 
 header a {
-  color: var(--text);
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -110,7 +110,7 @@ nav > a {
 }
 
 nav > a:hover {
-  color: var(--primary);
+  color: #000000;
 }
 
 header:not([data-big]) {

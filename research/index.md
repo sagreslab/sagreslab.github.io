@@ -2,12 +2,14 @@
 title: Research
 nav:
   order: 1
-  tooltip:  
+  tooltip:
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Research
+<!--- # {% include icon.html icon="fa-solid fa-wrench" %}Research -->
 
-**SENSORS DESIGN**  
+# Research
+
+**SENSOR DESIGN**  
 Our capabilities cover the entire sensor development lifecycle. We design sensing principles from first concepts and theoretical models, supported by analytical methods and advanced finite element simulations to optimize performance before fabrication. These designs are translated into functional prototypes using rapid prototyping techniques and are validated through comprehensive experimental characterization, calibration, and performance evaluation under realistic operating conditions.
 
 **SENSOR INTERFACES**  

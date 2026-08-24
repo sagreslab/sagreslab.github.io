@@ -1,11 +1,13 @@
 ---
-title: People
+title: Members
 nav:
   order: 2
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}People
+<!-- # {% include icon.html icon="fa-solid fa-users" %}People -->
+
+# Members
 
 We are allwys looking for new students and researchers to join our group! Drop us a line to know more.
 
