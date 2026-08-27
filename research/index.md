@@ -23,10 +23,10 @@ By jointly optimizing sensors, electronics, and algorithms, we maximize measurem
 This multidisciplinary approach allows SAGRES to transform innovative sensing concepts into mature technologies, providing end-to-end solutions from theoretical foundations and device development to intelligent instrumentation and application-specific deployment.
 
 
-<div style="display:flex; align-items:center; gap:2rem;">
+<div style="display:flex; align-items:center; gap:2rem; margin-top:3rem; margin-bottom:3rem;">
 
   <div style="flex:1;">
-    <img src="/images/research/microplastics2.png"
+    <img src="/images/research/microplastics_monitoring/highlight.png"
          alt="Microplastics"
          style="width:80%; border-radius:8px;">
   </div>
@@ -38,16 +38,77 @@ This multidisciplinary approach allows SAGRES to transform innovative sensing co
 </div>
 
     <p style="text-align:justify;">
-      **dasa**
+      SAGRES develops advanced electromagnetic sensing technologies for the detection and characterization of microplastics in environmental samples. Our work combines novel sensor architectures, dedicated electronics, and advanced signal processing to achieve sensitive, reliable, and scalable measurement systems.SAGRES develops advanced electromagnetic sensing technologies for the detection and characterization of microplastics in environmental samples. Our work combines novel sensor architectures, dedicated electronics, and advanced signal processing to achieve sensitive, reliable, and scalable measurement systems.
+    </p>
 
-      SAGRES develops advanced electromagnetic sensing technologies for the
-      detection and characterization of microplastics in environmental samples.
-      Our work combines novel sensor architectures, dedicated electronics, and
-      advanced signal processing to achieve sensitive, reliable, and scalable
-      measurement systems.
+  </div>
+</div>
 
+
+<div style="display:flex; align-items:center; gap:2rem; margin-bottom:3rem;">
+
+  <div style="flex:1;">
+
+    <div style="font-size:1.35rem; font-weight:700; text-align:left; margin-bottom:0.75rem;">
+      Industrial Quality Control
+    </div>
+
+    <p style="text-align:justify;">
+      SAGRES develops advanced electromagnetic sensing technologies for the detection and characterization of microplastics in environmental samples. Our work combines novel sensor architectures, dedicated electronics, and advanced signal processing to achieve sensitive, reliable, and scalable measurement systems.SAGRES develops advanced electromagnetic sensing technologies for the detection and characterization of microplastics in environmental samples. Our work combines novel sensor architectures, dedicated electronics, and advanced signal processing to achieve sensitive, reliable, and scalable measurement systems.
     </p>
 
   </div>
 
+  <div style="flex:1;">
+    <img src="/images/research/industrial_quality_control/highlight.png"
+         alt="Microplastics"
+         style="width:80%; border-radius:8px;">
+  </div>
+
 </div>
+
+
+<div style="display:flex; align-items:center; gap:2rem; margin-bottom:3rem;">
+
+  <div style="flex:1;">
+    <img src="/images/research/additive_manufacturing_online_process_control/highlight.mp4"
+         alt="Microplastics"
+         style="width:80%; border-radius:8px;">
+  </div>
+
+  <div style="flex:1;">
+
+<div style="font-size:1.35rem; font-weight:700; text-align:left; margin-bottom:0.75rem;">
+  Additive Manufacturing Online Process Control
+</div>
+
+    <p style="text-align:justify;">
+      SAGRES develops advanced electromagnetic sensing technologies for the detection and characterization of microplastics in environmental samples. Our work combines novel sensor architectures, dedicated electronics, and advanced signal processing to achieve sensitive, reliable, and scalable measurement systems.SAGRES develops advanced electromagnetic sensing technologies for the detection and characterization of microplastics in environmental samples. Our work combines novel sensor architectures, dedicated electronics, and advanced signal processing to achieve sensitive, reliable, and scalable measurement systems.
+    </p>
+
+  </div>
+</div>
+
+<!---
+<div style="display:flex; align-items:center; gap:2rem;">
+
+  <div style="flex:1;">
+
+    <div style="font-size:1.35rem; font-weight:700; text-align:left; margin-bottom:0.75rem;">
+      Electronic Measurement Systems
+    </div>
+
+    <p style="text-align:justify;">
+      SAGRES develops advanced electromagnetic sensing technologies for the detection and characterization of microplastics in environmental samples. Our work combines novel sensor architectures, dedicated electronics, and advanced signal processing to achieve sensitive, reliable, and scalable measurement systems.SAGRES develops advanced electromagnetic sensing technologies for the detection and characterization of microplastics in environmental samples. Our work combines novel sensor architectures, dedicated electronics, and advanced signal processing to achieve sensitive, reliable, and scalable measurement systems.
+    </p>
+
+  </div>
+
+  <div style="flex:1;">
+    <img src="/images/research/microplastics2.png"
+         alt="Microplastics"
+         style="width:80%; border-radius:8px;">
+  </div>
+
+</div>
+-->

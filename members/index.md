@@ -2,7 +2,7 @@
 title: Members
 nav:
   order: 2
-  tooltip: About our team
+  tooltip:
 ---
 
 <!-- # {% include icon.html icon="fa-solid fa-users" %}People -->
@@ -14,7 +14,8 @@ We are allwys looking for new students and researchers to join our group! Drop u
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
+{% include list.html data="members" component="portrait" filter="role == 'msc'" %}
 
 
 {% include section.html %}
