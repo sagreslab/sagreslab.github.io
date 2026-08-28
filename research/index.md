@@ -71,9 +71,9 @@ This multidisciplinary approach allows SAGRES to transform innovative sensing co
 <div style="display:flex; align-items:center; gap:2rem; margin-bottom:3rem;">
 
   <div style="flex:1;">
-    <img src="/images/research/additive_manufacturing_online_process_control/highlight.mp4"
+    <img src="/images/research/additive_manufacturing_online_process_control/highlight2.gif"
          alt="Microplastics"
-         style="width:80%; border-radius:8px;">
+         style="width:100%; border-radius:8px;">
   </div>
 
   <div style="flex:1;">
