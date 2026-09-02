@@ -1,6 +1,6 @@
 ---
 name: Luís Rosado
-image: images/members/luis_rosado.jpg
+image: images/members/luis_rosado.jpeg
 role: pi
 description: Principal Investigator Assistant Professor
 group: current

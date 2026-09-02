@@ -1,6 +1,6 @@
 ---
 name: Victor Macedo
-image: images/members/victor_macedo.jpg
+image: images/members/victor_macedo.jpeg
 description: PhD Student
 role: phd
 group: current
