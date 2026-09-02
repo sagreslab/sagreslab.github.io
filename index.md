@@ -1,6 +1,13 @@
 ---
 ---
 
+<!---
+Interesting group websites
+https://per.mit.edu/
+https://oxford-omni-lab.github.io/
+-->
+
+
 # **S**ensors and **A**dvanced mixed-si**G**nal p**R**ocessing **E**lectronic **S**ystems **LAB**
 
 **SAGRES** develops next-generation sensing and electronic systems that bridge fundamental research and real-world applications. Our research spans electromagnetic sensors, discrete and microelectronic sensor interfaces, mixed-signal processing and embedded electronics systems. We combine expertise in sensor design, electronics, and signal processing to develop innovative measurement solutions for industrial quality control, environmental monitoring, and other emerging applications.
