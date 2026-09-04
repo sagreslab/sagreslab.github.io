@@ -35,7 +35,7 @@ By co-designing sensors, electronics, and algorithms, we aim at improving measur
 </div>
 
     <p style="text-align:justify;">
-      SAGRES researches advanced electromagnetic sensing platforms for the detection and characterization of microplastics in environmental samples. Our work combines novel near-field microwave sensors with microfluidic systems, dedicated low-noise electronics, and advanced signal processing to enable sensitive and reliable measurements of individual particles. We develop complete measurement solutions, from sensor design and experimental characterization to compact, multichannel, and low-power instrumentation for real-time and, ultimately, in-situ monitoring. Our approach aims to provide scalable technologies capable of addressing the challenges of microplastic detection across different particle sizes, concentrations, and environmental conditions. 
+      SAGRES researches advanced electromagnetic sensing platforms for the detection and characterization of microplastics in environmental samples. Our work combines novel near-field microwave sensors with microfluidic systems, dedicated low-noise electronics, and advanced signal processing to enable sensitive and reliable measurements of individual particles. We develop complete measurement solutions, from sensor design and experimental characterization to compact, multichannel, and low-power instrumentation for real-time and, ultimately, in-situ monitoring. Our approach aims to provide scalable technologies capable of addressing the challenges of microplastic detection across different particle sizes, concentrations, and environmental conditions.
     </p>
 
   </div>
