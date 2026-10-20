@@ -9,13 +9,13 @@ nav:
 
 # Members
 
-We are allwys looking for new students and researchers to join our group! Drop us a line to know more.
+We are allways looking for new students and researchers to join our group! Drop us a line to know more.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
-{% include list.html data="members" component="portrait" filter="role == 'msc'" %}
+{% include list.html data="members" component="portrait" filter="role == 'pi' and group != 'alumni'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd' and group != 'alumni'" %}
+{% include list.html data="members" component="portrait" filter="role == 'msc' and group != 'alumni'" %}
 
 
 {% include section.html %}
@@ -25,16 +25,19 @@ We are allwys looking for new students and researchers to join our group! Drop u
 {% include section.html %}
 ## Alumni
 
-{% assign alumni_members = site.members | where: "group", "alumni" | sort: "left" | reverse %}
-{% for member in alumni_members %}
-{% include portrait.html
-    name=member.name
-    image=member.image
-    role=member.role
-    description=member.description
-    left=member.left
-    aliases=member.aliases
-    links=member.links
-    style="small"
-  %}
-{% endfor %}
+<div class="alumni-grid">
+  {% assign alumni_members = site.members | where: "group", "alumni" | sort: "left" | reverse %}
+  {% for member in alumni_members %}
+    {% include portrait.html
+      name=member.name
+      image=member.image
+      role=member.role
+      description=member.description
+      left=member.left
+      aliases=member.aliases
+      links=member.links
+      style="tiny"
+    %}
+  {% endfor %}
+</div>
+

@@ -20,5 +20,6 @@ After a year in industry, Victor returned to academia and was accepted in the 'D
 
 <!-- Add your dissertation title below -->
 Project Title: Novel capacitive sensor arrays and advanced digital signal processing for layer-by-layer powder bed fusion quality control
+
 <!-- Add your supevisors below (e.g. "Luís Rosado" or "Luís Rosado and Pedro Ramos" -->
 Supervisors: Luís Rosado and Pedro Ramos

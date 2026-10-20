@@ -19,5 +19,6 @@ Jorge Assis, born in April 2003, received the B.Sc. degree in Electrical and Com
 
 <!-- Add your dissertation title below -->
 Project Title: High Resolution Eddy Current Testing Array Probe for Structural Health Monitor
+
 <!-- Add your supevisors below (e.g. "Luís Rosado" or "Luís Rosado and Pedro Ramos" -->
 Supervisors: Luís Rosado

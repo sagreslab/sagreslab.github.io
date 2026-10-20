@@ -69,7 +69,7 @@ By co-designing sensors, electronics, and algorithms, we aim at improving measur
 <div style="display:flex; align-items:center; gap:2rem; margin-bottom:3rem;">
 
   <div style="flex:1;">
-    <img src="/images/research/additive_manufacturing_online_process_control/highlight2.gif"
+    <img src="/images/research/additive_manufacturing_online_process_control/highlight.gif"
          alt="Microplastics"
          style="width:100%; border-radius:8px;">
   </div>
