@@ -73,4 +73,23 @@
   display: none;
 }
 
+.alumni-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 12px;
+  align-items: start;
+}
+
+.alumni-grid .portrait-wrapper {
+  width: 100%;
+  min-width: 0;
+  margin: 0;
+}
+
+.alumni-grid .portrait {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
 /*# sourceMappingURL=portrait.css.map */
