@@ -7,17 +7,17 @@ group: current
 joined: 2021
 aliases:
   - Luís S. Rosado
-  - L Rosado
+  - L. Rosado
 links:
   email: luis.rosado@tecnico.ulisboa.pt
   orcid: 0000-0001-8928-510X
   google-scholar: r77XcUAAAAAJ
+  github: luissrosado
+  linkedin: luisfsgrosado
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget eeest lorem ipsum.
+Luís Filipe Soldado Granadeiro Rosado received his MSc and PhD degrees in Electrical and Computer Engineering from Instituto Superior Técnico (IST), University of Lisbon, in 2009 and 2014, respectively. He is currently an Assistant Professor at IST, where he teaches electronics, measurement systems, and instrumentation.
+
+His research focuses on electromagnetic sensors, mixed-signal electronics, and digital signal processing, adopting a holistic approach to sensing system design. His work addresses industrial and societal challenges, including quality control in metal additive manufacturing and microplastics detection in water. He is also pursuing the development of integrated microsystems combining innovative sensors, dedicated electronics, and signal processing.
+
+Alongside his academic career, Luís maintains strong links with industry and entrepreneurship, having co-founded several technology-based companies. His work aims to bridge scientific research and practical engineering solutions, translating advances in sensing technologies into real-world applications.
