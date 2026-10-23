@@ -2,7 +2,7 @@
 
 # team member roles
 
-principal-investigator:
+pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
@@ -14,7 +14,7 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-undergrad:
+msc:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 

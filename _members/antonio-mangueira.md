@@ -1,7 +1,7 @@
 ---
 name: António Mangueira
-image: images/members/graduation-cap.svg
-description: MEE. Student
+image: 
+description: MSc Student
 role: msc
 group: alumni
 links:

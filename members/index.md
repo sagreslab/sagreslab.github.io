@@ -13,18 +13,19 @@ We are allways looking for new students and researchers to join our group! Drop 
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi' and group != 'alumni'" %}
-{% include list.html data="members" component="portrait" filter="role == 'phd' and group != 'alumni'" %}
-{% include list.html data="members" component="portrait" filter="role == 'msc' and group != 'alumni'" %}
+{% include list.html data="members" component="portrait" filter="role == 'pi' and group != 'alumni'" sort_by="joined"%}
+{% include list.html data="members" component="portrait" filter="role == 'phd' and group != 'alumni'" sort_by="joined"%}
+{% include list.html data="members" component="portrait" filter="role == 'msc' and group != 'alumni'" sort_by="joined"%}
 
 
 {% include section.html %}
 {% include figure.html image="images/group_photo.jpg" width="85%" %}
 
 
-{% include section.html %}
-## Alumni
 
+
+{% include section.html %}
+## Alumni (since 2021)
 <div class="alumni-grid">
   {% assign alumni_members = site.members | where: "group", "alumni" | sort: "left" | reverse %}
   {% for member in alumni_members %}

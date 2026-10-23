@@ -1,7 +1,7 @@
 ---
 name: Pedro Faria
-image: images/members/graduation-cap.svg
-description: MSc. Student & Scholarship
+image: 
+description: MSc Student & Scholarship
 role: msc
 group: alumni
 links:

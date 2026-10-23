@@ -4,6 +4,7 @@ image: images/members/victor_macedo.jpeg
 description: PhD Student
 role: phd
 group: current
+joined: 2023
 links:
   email: victor.macedo@tecnico.ulisboa.pt
   orcid: 0009-0003-8343-5412

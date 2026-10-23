@@ -2,9 +2,9 @@
 name: Jorge Assis
 image: images/members/jorge_assis.jpeg
 description: MSc Student
-role: msc
+role: phd
 group: current
-joined: 2025
+joined: 2026
 links:
   email: jorge.assis@tecnico.ulisboa.pt
   orcid: 0009-0008-4472-1818

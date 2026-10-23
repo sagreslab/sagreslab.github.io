@@ -14,7 +14,7 @@
     {% if page.slug != member.slug %}
       href="{{ member.url | relative_url | uri_escape }}"
     {% endif %}
-    class="portrait"
+    class="portrait{% unless member.image %} portrait-no-image{% endunless %}"
     data-style="{{ include.style }}"
     aria-label="{{ member.name | default: "member link" | regex_strip }}"
   >
@@ -22,6 +22,7 @@
       {% include icon.html icon=type.icon %}
     {% endif %}
 
+    {% if member.image %}
     <img
       src="{{ member.image | relative_url | uri_escape }}"
       class="portrait-image"
@@ -29,6 +30,7 @@
       loading="lazy"
       {% include fallback.html %}
     >
+    {% endif %}
 
     {% if member.name %}
       <span class="portrait-name">
