@@ -5,6 +5,8 @@
 Interesting group websites
 https://per.mit.edu/
 https://oxford-omni-lab.github.io/
+
+Evaluate name change to remove Systems, get the S from ElectronicS 
 -->
 
 

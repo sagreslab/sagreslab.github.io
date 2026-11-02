@@ -4,6 +4,7 @@ image:
 description: MSc Student
 role: msc
 group: alumni
+joined: 2021
 links:
   email:
   orcid:

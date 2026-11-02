@@ -4,7 +4,7 @@ image: images/members/victor_macedo.jpeg
 description: PhD Student
 role: phd
 group: current
-joined: 2023
+joined: 2025
 links:
   email: victor.macedo@tecnico.ulisboa.pt
   orcid: 0009-0003-8343-5412
@@ -14,7 +14,7 @@ links:
 ---
 
 <!-- PhD Student: This is a description example, you are free to suggest something else and edit with AI -->
-Victor S. Macedo is a researcher in Electronics Engineering with background in capacitive sensors, embedded measurement systems, mixed-signal and digital signal processing, as well as semiconductor design. In 2025, he completed a double-degree program in Electronics Engineering through a collaboration between the University of São Paulo (USP) and Instituto Superior Técnico (IST). His MSc. dissertation, focused on developing the first conceptual capacitive sensor array probe designed for layer-by-layer imaging in metal 3D printing processes.
+Victor S. Macedo is a researcher in Electronics Engineering with background in capacitive sensors, embedded measurement systems, mixed-signal and digital signal processing, as well as semiconductor design. In 2025, he completed a double-degree program in Electronics Engineering through a collaboration between the University of São Paulo (USP) and IST. His MSc. dissertation, focused on developing the first conceptual capacitive sensor array probe designed for layer-by-layer imaging in metal 3D printing processes.
 After a year in industry, Victor returned to academia and was accepted in the 'DEEC call for PhD applications', a temporary PhD scholarship program designed to support the transition to other funding sources. The program supports students of high academic merit who are interested in pursuing a PhD at Instituto Superior Técnico, funded through a part-time teaching position. His primary research interests include capacitive sensors, eddy current sensors, electronics measurement systems and signal processing applied to the quality control of additive manufacturing processes.
 
 
