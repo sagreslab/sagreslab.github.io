@@ -5,7 +5,7 @@ nav:
   tooltip:
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-regular fa-envelope" %}Get in touch
 
 We are based at the IST Alameda Campus in sunny Lisbon, a vibrant city renowned for its thriving innovation ecosystem, excellent quality of life, and year-round pleasant climate. Our full address: Electronics Scientific Area - North Tower, Av. Rovisco Pais, 1, 1049-001 Lisbon
 
