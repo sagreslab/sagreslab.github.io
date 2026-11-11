@@ -12,7 +12,7 @@ We held our first annual Express BBQ at the beautiful Parque da Pedra, in Monsan
 
 Together with our Christmas dinner, this will be one of our two main group get-togethers each year — a great opportunity to step away from our daily research activities and enjoy some time together.
 
-This year's BBQ brought together Pedro Rodrigues, Victor Macedo, Pedro Ramos, Francisco Jesus, Jorge Assis and Inês Santos (from left to right in the picture). A great afternoon with good food, good company and, apparently, a little too much dessert 😄!
+This year's BBQ brought together Pedro Rodrigues, Victor Macedo, Luís Rosado, Pedro Ramos, Francisco Jesus, Rodrigo Caldeira, Jorge Assis and Inês Santos (from left to right in the picture). A great afternoon with good food, good company and, apparently, a little too much dessert 😄!
 
 <div>
     <img src="/images/news/2026-10-22-annual-bbq.jpg"
