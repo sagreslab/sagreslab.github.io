@@ -1,6 +1,6 @@
 ---
 name: Rodrigo Caldeira
-image: 
+image: images/members/rodrigo_caldeira.jpeg
 description: MSc Student
 role: msc
 group: current

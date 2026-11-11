@@ -1,6 +1,6 @@
 ---
 name: Pedro Rodrigues
-image: 
+image: images/members/pedro_rodrigues.jpeg
 description: MSc Student
 role: msc
 group: alumni

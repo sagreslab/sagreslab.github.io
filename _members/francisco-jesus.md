@@ -1,6 +1,6 @@
 ---
 name: Francisco Jesus
-image: 
+image: images/members/francisco_jesus.jpeg
 description: MSc Student
 role: msc
 group: current
