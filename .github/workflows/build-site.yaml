@@ -33,7 +33,11 @@ jobs:
           CFLAGS: "-Wno-incompatible-function-pointer-types"          
         with:
           ruby-version: "3.1"
-          bundler-cache: true
+
+      - name: Install Ruby dependencies
+        run: |
+          bundle lock --add-platform x86_64-linux
+          bundle install --jobs 4
 
       - name: Get Pages url
         id: pages
