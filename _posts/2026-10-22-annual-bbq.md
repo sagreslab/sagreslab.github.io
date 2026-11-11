@@ -16,6 +16,6 @@ This year's BBQ brought together Pedro Rodrigues, Victor Macedo, Pedro Ramos, Fr
 
 <div>
     <img src="/images/news/2026-10-22-annual-bbq.jpg"
-         alt="bbq"
+         alt="annual bbq"
          style="width:50%; border-radius:8px;">
 </div>
