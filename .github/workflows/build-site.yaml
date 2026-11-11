@@ -29,6 +29,8 @@ jobs:
 
       - name: Install Ruby packages
         uses: ruby/setup-ruby@v1
+        env:
+          CFLAGS: "-Wno-incompatible-function-pointer-types"          
         with:
           ruby-version: "3.1"
           bundler-cache: true
